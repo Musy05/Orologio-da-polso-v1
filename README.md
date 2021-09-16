@@ -5,4 +5,4 @@
 ![alt text](https://github.com/Musy05/Orologio-con-RTC-display-OLED-128x64-Attiny-85/blob/main/Anteprima%20orologio.jpg?raw=true)
 
 ### Tentendo premuto il pulsante collegato al pin 4 dell'Attiny85 si può entrare nel menù delle impostazioni dove selezionare l'ora (ore, minuti e secondi) e la data (giorno, mese e anno).
-![alt text](https://github.com/Musy05/Orologio-con-RTC-display-OLED-128x64-Attiny-85/blob/main/impostazioni.jpg?raw=true)
+
