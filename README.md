@@ -2,7 +2,7 @@
 ### Ho realizzato un orologio molto semplice di dimensioni ridotte, volendo anche indossabile anche al polso
 
 ### La pagina iniziale dell'orologio si presenta così:
-![alt text](https://github.com/Musy05/Orologio-con-RTC-display-OLED-128x64-Attiny-85/blob/main/Anteprima%20homepage.PNG?raw=true)
+![alt text](https://github.com/Musy05/Orologio-con-RTC-display-OLED-128x64-Attiny-85/blob/main/homepage.jpg?raw=true)
 
 ### Componenti:
 
